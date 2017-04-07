@@ -15,3 +15,6 @@
     </h3>
     <p>Corn provides the needed calories for a healthy diet and it has many vitamins such as A, B and E. It is also rich in phytochemicals that help protect against diseases. Corn can also help can help control diabetes and prevention of heart ailments.
     </p>
+    <h3>Modern Use Of Corn
+    </h3>
+    <p>Corn is now used in a lot of different ways like making corn meal or corn starch. Corn is used in sugar, whiskey, 
