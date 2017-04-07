@@ -11,6 +11,6 @@
     </h3>
     <p>Corn was first naturalized by the people of Mexico about 10,000 years ago! They grounded, cooked, and processed corn through Nixtalization. Read more about Nixtalization here:https://en.wikipedia.org/wiki/Nixtamalization Corn is the most widely grown grain crop throughout the Americas. 85% of the corn grown in the US is genetically modified. 40% of that corn is used to make corn oil or ethanol. Corn was spread around the world fast because it could grow in a diverse set climates.
     </p>
-    <h3>Benefits of Corn:https://www.organicfacts.net/health-benefits/cereal/health-benefits-of-corn.html
+    <h3>Benefits of Corn:
     </h3>
-    <p>
+    <p>Corn provides the needed calories for a healthy 
