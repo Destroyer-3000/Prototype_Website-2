@@ -13,4 +13,5 @@
     </p>
     <h3>Benefits of Corn:
     </h3>
-    <p>Corn provides the needed calories for a healthy 
+    <p>Corn provides the needed calories for a healthy diet and it has many vitamins such as A, B and E. It is also rich in phytochemicals that help protect against diseases. Corn can also help can help control diabetes and prevention of heart ailments.
+    </p>
