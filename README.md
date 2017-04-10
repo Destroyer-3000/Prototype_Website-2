@@ -17,4 +17,5 @@
     </p>
     <h3>Modern Use Of Corn
     </h3>
-    <p>Corn is now used in a lot of different ways like making corn meal or corn starch. Corn is used in sugar, whiskey, 
+    <p>Corn is now used in a lot of different ways like making corn meal or corn starch. Corn is used in sugar, whiskey, pastic, batterys and even common cold medicine. Corn is used in baby powder, helping almost everybody from birth. Corn helps matches burn brighter and make crayons color's brighter. Toothpaste, dish detergent, paper, clothing dyes, explosives and soaps are all made using corn.
+    </p>
